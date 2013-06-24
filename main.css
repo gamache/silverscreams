@@ -75,13 +75,12 @@ h1, h2, h3, h4 {
 .logo {
   font-size: 872%;
   text-align: center;
-  margin: 50px auto 50px auto;
+  margin: 20px auto 50px auto;
   display: inline-block;
   line-height: 0.69; }
 
-.about,
-.next-show {
-  margin: 50px auto; }
+p {
+  margin: 40px auto 20px auto; }
 
-.contact {
-  margin: 50px auto 20px auto; }
+img {
+  margin: 10px auto 40px auto; }
