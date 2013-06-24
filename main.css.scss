@@ -28,9 +28,10 @@ body {
 }
 
 a {
-  text-decoration: none;
+  text-decorationzz: none;
   color: #ddd;
   &:visited { color: #ddd; }
+  &:active  { color: #f33; }
 }
 
 h1 { font-size: 218%; }
@@ -44,24 +45,22 @@ h1,h2,h3,h4 {
 }
 
 .logo {
+  font-size: 872%;
   text-align: center;
-  margin: 50px auto 120px auto;
+  margin: 50px auto 50px auto;
   display: inline-block;
-  padding: 30px;
-  border: 1px solid white;
+  line-height: 0.69;
 }
 
-.about {
-  text-align: center;
-  margin: 20px auto;
-}
-
+.about,
 .lineup {
-  text-align: center;
   margin: 20px auto;
+}
+
+.next-show {
+  margin: 50px auto;
 }
 
 .contact {
-  text-align: center;
-  margin: 150px auto 20px auto;
+  margin: 50px auto 20px auto;
 }
