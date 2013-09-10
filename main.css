@@ -73,11 +73,10 @@ h1, h2, h3, h4 {
   margin: 10px 0px; }
 
 .logo {
-  font-size: 872%;
+  font-size: 436%;
   text-align: center;
-  margin: 20px auto 50px auto;
-  display: inline-block;
-  line-height: 0.69; }
+  margin: 20px auto 30px auto;
+  display: inline-block; }
 
 p {
   margin: 40px auto 20px auto; }
